@@ -275,6 +275,11 @@ body {
   align-items: center;
 }
 
+.nav-buttons p{
+  font-weight: bold;
+  font-size: larger;
+}
+
 .Copyright-para {
   color: #000;
   text-align: center;
@@ -364,7 +369,13 @@ body {
 
   .nav-buttons {
     gap: 20px;
+   
   }
+  .nav-buttons p{
+    font-weight: bold;
+    font-size: 16px;
+  }
+
 
   .inner-left {
     font-size: 36px;
